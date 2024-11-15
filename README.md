@@ -1,3 +1,8 @@
+Language -Python
+
+Tool - Google colab
+
+
 Abstract for project:-
 
 	Plant disease detection system has been a necessity for cultivators as detection of a correct disease might lead to a proper yield and effective growth of the plant. The detection of plant diseases is essential for ensuring optimal crop yields and minimizing losses in agriculture. Traditional methods of disease detection often involve manual inspection by trained experts, which can be time-consuming and expensive.
