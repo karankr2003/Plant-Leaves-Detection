@@ -2,8 +2,6 @@ Language -Python
 
 Tool - Google colab
 
-
-Abstract for project:-
 • The project is implemented on Google Colaboratory, a cloud-based Jupyter notebook environment.
 
 • It employs a Machine Learning algorithm called Convolutional Neural Network (CNN) algorithm to identify and classify
