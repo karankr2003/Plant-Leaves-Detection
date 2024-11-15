@@ -1,6 +1,8 @@
-Language -Python
+#Language -Python
 
-Tool - Google colab
+#Tool - Google colab
+
+#Machine Learning
 
 • The project is implemented on Google Colaboratory, a cloud-based Jupyter notebook environment.
 
